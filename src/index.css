@@ -19,10 +19,19 @@ body {
   background-position: center;
   background-repeat: no-repeat;
   height: 100vh;
-  overflow-y: hidden;
   padding-bottom: 2rem;
   background-image: url('./assets/calm.jpg');
+  overflow-y: hidden;
 
+
+}
+
+@media (max-width: 500px) {
+  body{
+    background-size: cover ;
+    padding-bottom: 2rem;
+  }
+  
 }
 
 @font-face {
