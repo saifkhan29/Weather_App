@@ -5,7 +5,7 @@ import './components/Weather.scss'
 function App() {
   return (
     <div className="App">
-      <h1 className='mt-4 main_heading'>Enterrr a city name</h1>
+      <h1 className='mt-4 main_heading'>Enter22222 a city name</h1>
       <GetData />
     </div>
   );
