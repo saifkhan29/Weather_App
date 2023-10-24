@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/Weather_App/static/css/main.5f11fe5f.css",
-    "main.js": "/Weather_App/static/js/main.60e22bb4.js",
+    "main.css": "/Weather_App/static/css/main.aaf265a4.css",
+    "main.js": "/Weather_App/static/js/main.46c192b7.js",
     "static/js/787.d9312eb8.chunk.js": "/Weather_App/static/js/787.d9312eb8.chunk.js",
-    "static/media/cold.jpg": "/Weather_App/static/media/cold.bc80ba350cf18bab48fc.jpg",
-    "static/media/sunny.jpg": "/Weather_App/static/media/sunny.e30f825e212ff79440e6.jpg",
-    "static/media/calm.jpg": "/Weather_App/static/media/calm.481cb9dc3d7693d6c1e8.jpg",
-    "static/media/hazy.jpg": "/Weather_App/static/media/hazy.bcc19fbb646a2e1b8bf0.jpg",
-    "static/media/rainy.jpg": "/Weather_App/static/media/rainy.03eb353b67f82067d35b.jpg",
-    "static/media/cloudy.jpg": "/Weather_App/static/media/cloudy.6ec1144346f249cf5e1d.jpg",
+    "static/media/cold.jpg": "/Weather_App/static/media/cold.c6d0c120fddd5e01ca4d.jpg",
+    "static/media/sunny.jpg": "/Weather_App/static/media/sunny.d92adb5857946b965326.jpg",
+    "static/media/hazy.jpg": "/Weather_App/static/media/hazy.aa27643b3c4bc8eb717f.jpg",
+    "static/media/rainy.jpg": "/Weather_App/static/media/rainy.9a642ea715d334f9f551.jpg",
+    "static/media/cloudy.jpg": "/Weather_App/static/media/cloudy.705fcb9e90be0587411d.jpg",
     "static/media/Frankie.otf": "/Weather_App/static/media/Frankie.4f7cdc5419710c7b0a38.otf",
     "index.html": "/Weather_App/index.html",
-    "main.5f11fe5f.css.map": "/Weather_App/static/css/main.5f11fe5f.css.map",
-    "main.60e22bb4.js.map": "/Weather_App/static/js/main.60e22bb4.js.map",
+    "main.aaf265a4.css.map": "/Weather_App/static/css/main.aaf265a4.css.map",
+    "main.46c192b7.js.map": "/Weather_App/static/js/main.46c192b7.js.map",
     "787.d9312eb8.chunk.js.map": "/Weather_App/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f11fe5f.css",
-    "static/js/main.60e22bb4.js"
+    "static/css/main.aaf265a4.css",
+    "static/js/main.46c192b7.js"
   ]
 }
